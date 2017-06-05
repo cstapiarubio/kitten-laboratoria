@@ -1,10 +1,11 @@
-@media only screen (min-width: 700px){
+@media only screen and (max-width: 700px){
+	body{
 
-background-image:url(../assets/img/copia de dawn.png);
+		background-image:url("../img/Copia de dawn.png");
 
+	}
 
-}
+	@media only screen and (max-width: 400px){
 
-@media only screen (min-width: 400px){
+	}
 
-}
