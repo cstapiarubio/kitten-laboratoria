@@ -1,3 +1,8 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
 body{
 	background-image: url("../img/Copia de Landscape.jpg");
 	background-repeat: no-repeat;
@@ -9,3 +14,23 @@ body{
 .flex-container{
 	display: flex;
 }
+
+
+#cat-principal.flex-container{
+	justify-content: center;
+	align-items: flex-end;
+	/*position: relative;
+	top: 100px;	*/
+}
+
+section{
+	height: 700px;
+}
+
+/*#cat-principal img{
+	justify-content: center;
+	/*flex-direction: column;
+	margin-right: auto;
+	align-items: flex-end;
+	/*margin-left: 200px;
+}*/
