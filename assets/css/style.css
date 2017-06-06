@@ -7,8 +7,8 @@ body{
 	background-image: url("../img/Copia de Landscape.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-attachment: fixed;
-	/*preguntar si esta bien con esto, ya que la imagen se achique background-size: 100%;*/
+	
+	/*background-attachment: fixed; preguntar si esta bien con esto, ya que la imagen se achique background-size: 100%;*/
 }
 
 .flex-container{
@@ -33,4 +33,4 @@ section{
 	margin-right: auto;
 	align-items: flex-end;
 	/*margin-left: 200px;
-}*/
+	}*/
